@@ -4,7 +4,7 @@
 5 REM
 6 REM *** initialize ***
 10 LET s=12: LET z=s-1: LET r=1
-12 DIM c(s,s): DIM (s,s)
+12 DIM c(s,s): DIM n(s,s)
 20 RANDOMIZE
 30 FOR i=2 TO z: FOR j=2 TO z
 35 LET c(i,j) = INT (RND *2)
