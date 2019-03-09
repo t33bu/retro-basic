@@ -1,2 +1,5 @@
 # spectrum-game-of-life
-Conway's Game of Life for ZX Spectrum +2 BASIC
+Just having fun with retro stuff..
+
+gameoflife.bas - Conway's Game of Life for ZX Spectrum +2 BASIC
+
