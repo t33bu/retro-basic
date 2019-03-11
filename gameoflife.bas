@@ -36,7 +36,7 @@
 145 LET c(i,j)=n(i,j)
 148 NEXT j: NEXT i
 150 LET r=r +1
-150 GO TO 50
+152 GO TO 50
 
 
 
