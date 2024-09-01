@@ -1,4 +1,4 @@
-# spectrum-game-of-life
+# Random BASIC programs for retrocomputers
 Just reinventing the wheel..
 
 gameoflife.bas - Conway's Game of Life with ZX Spectrum +2 BASIC
